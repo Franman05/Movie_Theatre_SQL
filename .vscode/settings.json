@@ -1,0 +1,23 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "dvdrental",
+            "connectString": "postgres://todklrhs:rDJsQO2Fp2dA6eeTmhlSpy3YoBLZn0bG@ruby.db.elephantsql.com/todklrhs"
+        },
+        {
+            "previewLimit": 50,
+            "server": "ziggy.db.elephantsql.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "bxhuxwwh",
+            "username": "bxhuxwwh",
+            "password": "XcAeMlhg_dv-Gr5sjsH2bOVbv4QKq8c1",
+            "name": "MovieThreatre"
+        }
+    ]
+}
